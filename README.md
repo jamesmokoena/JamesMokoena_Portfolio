@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+PLEASE use Chrome and Brave as browsers.
+
 First, run the development server:
 
 npm install
