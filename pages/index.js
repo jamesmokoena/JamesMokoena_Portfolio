@@ -252,7 +252,7 @@ export default function Home() {
             <div class="w-full">
               <h4 class="text-dark mb-1 text-xl font-bold">My Location</h4>
               <p class="text-body-color text-base">
-                Johannesburg, South A frica
+                Johannesburg, South Africa
               </p>
             </div>
           </div>
