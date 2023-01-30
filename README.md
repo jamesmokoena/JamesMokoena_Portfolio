@@ -2,7 +2,26 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-PLEASE use Chrome and Brave as browsers.
+*****PLEASE use Chrome and Brave as browsers.
+
+For Linux users, I recommend you install nvm first.
+
+To install nvm , follow these instructions.
+
+1. sudo apt install curl
+
+2. curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+
+3. nvm install node
+
+4. nvm run node
+
+DONE!!!!
+
+now run this command to start the program
+
+npm run dev 
+
 
 First, run the development server:
 
