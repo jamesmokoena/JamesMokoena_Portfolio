@@ -23,6 +23,12 @@ now run this command to start the program
 npm run dev 
 
 
+
+--------------------------------------------------------------------------------------------------------
+
+*Windows user
+
+
 First, run the development server:
 
 npm install
