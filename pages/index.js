@@ -66,7 +66,7 @@ export default function Home() {
 
      
 
-      <Image  class="rounded-full" src={image1} width={250} height={250}/>
+      <Image  alt='image' class="rounded-full" src={image1} width={250} height={250}/>
 
       </div>
             
@@ -127,9 +127,9 @@ export default function Home() {
             </section> 
        <div className='flex items-center justify-between h-24 text-white shadow-md space-x-2 '>
         
-       <Image  className='rounded-full ' src={image1} width={300} height={300}  />
-       <Image  class='rounded-md' src={image2} width={300} height={300}  />
-       <Image  className='rounded-full ' src={image3} width={300} height={300}  />
+       <Image alt='image' className='rounded-full ' src={image1} width={300} height={300}  />
+       <Image  alt='image' class='rounded-md' src={image2} width={300} height={300}  />
+       <Image  alt='image' className='rounded-full ' src={image3} width={300} height={300}  />
        </div>
        </div>
        </section>
@@ -193,7 +193,7 @@ export default function Home() {
                 C#
               </h3>
               <p className="py-2">
-                I used C# when while doing Qaulity Assurance, I've done different kinds of testing.
+                I used C# when while doing Qaulity Assurance, I have done different kinds of testing.
               </p>
               <h4 className="py-4 text-teal-600">I have Done</h4>
               <p className="text-gray-800 py-1"></p>
