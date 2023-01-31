@@ -22,7 +22,7 @@ const config = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            template: './pages/index.js',
+            template: 'index.html',
         }),
 
         // Add your plugins here
