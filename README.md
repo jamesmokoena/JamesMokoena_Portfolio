@@ -2,6 +2,33 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+*****PLEASE use Chrome and Brave as browsers******.
+
+For Linux users, I recommend you install nvm first.
+
+To install nvm , follow these instructions.
+
+1. sudo apt install curl
+
+2. curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+
+3. nvm install node
+
+4. nvm run node
+
+DONE!!!!
+
+now run this command to start the program
+
+npm run dev 
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+*Windows user
+
+
 First, run the development server:
 
 npm install
@@ -38,3 +65,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
