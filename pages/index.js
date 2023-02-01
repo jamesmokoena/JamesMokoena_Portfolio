@@ -9,12 +9,13 @@ import Image from "next/image";
 import image1 from "../public/james.jpg";
 import  image2 from "../public/20220209_112040.jpg"
 import image3 from "../public/IMG-20220711-WA0006.jpg"
+import ScrollToTop from "react-scroll-to-top";
 
 
 
 export default function Home() {
   return (
-
+    
 
     <div>
       <Head>
@@ -319,14 +320,14 @@ export default function Home() {
       </div>
     </div>
   </div>
-  <section >
-            <h1 class= "h-20">              
-            </h1>
-            </section> 
-
   
 
 </section>
+<div>
+      
+      <div style={{ marginTop: "150vh" }} />
+      <ScrollToTop smooth top="20" />
+    </div>
 
 
       </main>
